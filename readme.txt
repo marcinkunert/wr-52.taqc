@@ -8,7 +8,3 @@ changes done
 
 asdasd
 
-a
-sdsd
-
-asd
