@@ -1,3 +1,1 @@
-Readme file
-New line
-A lot of useful codes
+Readme file\nNew line\nA lot of useful codes
